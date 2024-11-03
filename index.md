@@ -10,16 +10,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Project 1
+# Project 1 : Lending_Club_Case_Study
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Lending Club is a marketplace for loans. This case study is to determine which application is suitable to lend the money so that lending club will minimise the risk of losing money while lending to customer. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile.
 
-## Header 2
+# Project 2 : Bike_Sharing_System 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
+> A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. They have contracted a consulting company to understand the factors on which the demand for these shared bikes depends. Specifically, they want to understand the factors affecting the demand for these shared bikes in the American market.
 ### Header 3
 
 ```js
