@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Project 1 : Lending_Club_Case_Study
 
-Lending Club is a marketplace for loans. This case study is to determine which application is suitable to lend the money so that lending club will minimise the risk of losing money while lending to customer. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile.
+> Lending Club is a marketplace for loans. This case study is to determine which application is suitable to lend the money so that lending club will minimise the risk of losing money while lending to customer. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile.
 
 # Project 2 : Bike_Sharing_System 
 
